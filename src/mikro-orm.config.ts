@@ -13,6 +13,6 @@ export default {
     entities: [Post],
     dbName: 'mereddit',
     type: 'postgresql',
-    // password: 'chidi2092',
+    password: 'chidi2092',
     debug: !__prod__,
 } as Parameters<typeof MikroORM.init>[0];
