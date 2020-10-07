@@ -14,5 +14,5 @@ export default {
     dbName: 'mereddit',
     type: 'postgresql',
     password: 'chidi2092',
-    debug: !__prod__
+    debug: !__prod__,
 } as Parameters<typeof MikroORM.init>[0];
