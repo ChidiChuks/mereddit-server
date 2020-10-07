@@ -16,6 +16,6 @@ exports.default = {
     dbName: 'mereddit',
     type: 'postgresql',
     password: 'chidi2092',
-    debug: !constants_1.__prod__
+    debug: !constants_1.__prod__,
 };
 //# sourceMappingURL=mikro-orm.config.js.map

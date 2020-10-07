@@ -26,12 +26,11 @@
     "@mikro-orm/core": "^4.0.7",
     "@mikro-orm/migrations": "^4.0.7",
     "@mikro-orm/postgresql": "^4.0.7",
-    "@types/dotenv": "^8.2.0",
     "apollo-server-express": "^2.18.2",
-    "dot-env": "^0.0.1",
     "express": "^4.17.1",
     "graphql": "^15.3.0",
     "reflect-metadata": "^0.1.13",
+    "request": "^2.88.2",
     "type-graphql": "^1.0.0"
   },
   "mikro-orm": {
